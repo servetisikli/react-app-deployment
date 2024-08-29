@@ -1,0 +1,20 @@
+.first-class {
+  color: rgb(200, 84, 37);
+}
+.second-class {
+  color: rgb(145, 145, 4);
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  width: 70vw;
+}
+ul li {
+  font-size: 20px;
+}
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
